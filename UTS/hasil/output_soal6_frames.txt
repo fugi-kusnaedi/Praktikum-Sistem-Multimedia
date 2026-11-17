@@ -1,0 +1,4 @@
+VIDEO SUMBER : /data/data/com.termux/files/home/Praktikum-Sistem-Multimedia/Pertemuan_1/Media_Asli/thanos.mp4
+Metode       : FFprobe (-show_frames)
+Berhasil menulis 539 frame ke frames.json
+Ukuran berkas : 470,491 byte

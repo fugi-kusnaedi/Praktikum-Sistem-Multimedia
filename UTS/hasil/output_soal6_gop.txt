@@ -1,0 +1,80 @@
+DISTRIBUSI FRAME VIDEO
+=============================================
+Tipe Frame      Jumlah     Persentase
+---------------------------------------------
+I-Frame             37          6.86%
+P-Frame            137         25.42%
+B-Frame            365         67.72%
+---------------------------------------------
+Total              539        100.00%
+=============================================
+
+STRUKTUR GOP
+=======================================================
+Jumlah GOP        : 37
+Posisi I-Frame    : [0, 160, 279, 320, 322, 324, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 360, 480]
+Panjang GOP (min) : 1
+Panjang GOP (max) : 160
+Panjang GOP (rata): 14.57
+=======================================================
+
+TIPE 20 FRAME PERTAMA
+Frame ke-0    : I-Frame
+Frame ke-1    : B-Frame
+Frame ke-2    : B-Frame
+Frame ke-3    : B-Frame
+Frame ke-4    : P-Frame
+Frame ke-5    : B-Frame
+Frame ke-6    : B-Frame
+Frame ke-7    : B-Frame
+Frame ke-8    : P-Frame
+Frame ke-9    : B-Frame
+Frame ke-10   : B-Frame
+Frame ke-11   : B-Frame
+Frame ke-12   : P-Frame
+Frame ke-13   : B-Frame
+Frame ke-14   : B-Frame
+Frame ke-15   : B-Frame
+Frame ke-16   : P-Frame
+Frame ke-17   : B-Frame
+Frame ke-18   : B-Frame
+Frame ke-19   : B-Frame
+
+TABEL GOP (30 GOP pertama)
+GOP ke-     Frame awal  Frame akhir   Panjang
+---------------------------------------------
+1                    0          159       160
+2                  160          278       119
+3                  279          319        41
+4                  320          321         2
+5                  322          323         2
+6                  324          328         5
+7                  329          329         1
+8                  330          330         1
+9                  331          331         1
+10                 332          332         1
+11                 333          333         1
+12                 334          334         1
+13                 335          335         1
+14                 336          336         1
+15                 337          337         1
+16                 338          338         1
+17                 339          339         1
+18                 340          340         1
+19                 341          341         1
+20                 342          342         1
+21                 343          343         1
+22                 344          344         1
+23                 345          345         1
+24                 346          346         1
+25                 347          347         1
+26                 348          348         1
+27                 349          349         1
+28                 350          350         1
+29                 351          351         1
+30                 352          352         1
+...
+
+POLA GOP PERTAMA (maks. 30 frame): IBBBPBBBPBBBPBBBPBBBBPBBBBPBBB
+
+SELESAI. Grafik dan tabel tersimpan di: /data/data/com.termux/files/home/Praktikum-Sistem-Multimedia/UTS/soal6/hasil

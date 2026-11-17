@@ -1,0 +1,37 @@
+ANALISIS FRAME DIFFERENCING
+==================================================
+Video : thanos.mp4
+Pembaca : FFmpeg
+Frame   : 539 (640 x 266, 30 fps)
+
+STATISTIK FRAME DIFFERENCING
+==================================================
+Jumlah nilai selisih   : 538
+Rata-rata              : 2.1358
+Median                 : 1.7508
+Maksimum               : 34.7560
+Simpangan baku         : 3.2392
+Ambang lonjakan (x+3s) : 11.8536
+Jumlah lonjakan        : 9
+Posisi lonjakan        : [272, 273, 274, 275, 276, 277, 278, 279, 280]
+Rata-rata tanpa lonjakan: 1.7944
+
+PERBANDINGAN BERDASARKAN TIPE FRAME
+Rata-rata selisih pada I-Frame  : 5.5256
+Rata-rata selisih frame lainnya : 1.8927
+
+Grafik dan CSV frame differencing disimpan.
+
+Segmen statis (frame 0-149):
+  jumlah nilai : 149
+  rata-rata    : 2.3124
+  minimum      : 0.0000
+  maksimum     : 4.7693
+
+Segmen dinamis (frame 300-449):
+  jumlah nilai : 150
+  rata-rata    : 2.0278
+  minimum      : 0.0000
+  maksimum     : 6.1743
+
+SELESAI. Hasil disimpan di: /data/data/com.termux/files/home/Praktikum-Sistem-Multimedia/UTS/soal6/hasil
