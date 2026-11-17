@@ -1,8 +1,0 @@
-format,kualitas,jenis,file,ukuran_byte,mse,psnr_db,ssim,hemat_persen
-PNG,-,lossless,gambar.png,295440,0.0000,inf,1.000000,-1151.76
-JPEG,10,lossy,jpeg_10.jpeg,10354,72.2905,29.5400,0.816448,56.13
-JPEG,50,lossy,jpeg_50.jpeg,25173,0.0031,73.1527,0.999986,-6.66
-JPEG,90,lossy,jpeg_90.jpeg,45139,0.5930,50.4003,0.997119,-91.25
-WebP,10,lossy,webp_10.webp,6688,40.0067,32.1095,0.867610,71.66
-WebP,50,lossy,webp_50.webp,14668,16.0602,36.0733,0.936398,37.85
-WebP,90,lossy,webp_90.webp,37880,3.4215,42.7886,0.983777,-60.49
